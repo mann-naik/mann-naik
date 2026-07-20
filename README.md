@@ -1,5 +1,5 @@
 # 💫 Personal Profile:
-🌱 About Me<br><br><br>🎓 Currently studying Computer Engineering at GIDC Degree Engineering College.<br>💻 Exploring the world of AI/ML, Data Science.<br>🧠 Currently learning Python and DSA.<br>🎯 2026 Goal: Master Python and Make 5 Projects.<br>
+🌱 About Me<br><br>🎓 Currently studying Computer Engineering at GIDC Degree Engineering College.<br>💻 Exploring the world of AI/ML, Data Science.<br>🧠 Currently learning Python and DSA.<br>🎯 2026 Goal: Master Python and Make 5 Projects.<br>
 
 
 ## 🌐 Socials:
